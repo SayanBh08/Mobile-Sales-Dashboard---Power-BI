@@ -1,4 +1,5 @@
-📊 Motorola Sales Dashboard (Power BI)
+# 📊 Motorola Sales Dashboard (Power BI)
+
 This repository contains a Power BI sales analysis dashboard for Motorola's product sales. The dashboard provides insightful visualizations to help understand business performance across various dimensions such as region, product, time, and more.
 
 🔍 Overview
